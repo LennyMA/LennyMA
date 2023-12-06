@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hi, I'm <a href="https://www.instagram.com/lenny.m.v/"> Lenin</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px/></picture></h1>
+</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=40&pause=80&color=F73F3F&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Backend+Developer+%F0%9F%96%B3" alt="Typing SVG" /></a>
+</div>
+
 
 <!--
 **LennyMA/LennyMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
