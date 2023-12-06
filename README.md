@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=40&pause=80&color=F73F3F&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Backend+Developer+%F0%9F%96%B3" alt="Typing SVG" /></a>
 </div>
 
+### About me
 
 <!--
 **LennyMA/LennyMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
