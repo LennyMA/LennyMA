@@ -34,19 +34,20 @@
 ### 🛢️ Database:
 <p p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/oracle_original_logo_icon_146401.png" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=8rKdRqZFLurS&format=png" alt="mongodb" width="40" height="40"/> </a>
 
 </p>
 
 <!-- Social icons section -->
-### You can find me on:
+### 🔎 You can find me on:
 <p align="center">
   <a href="https://www.facebook.com/lenin.ekess.9"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/128/733/733547.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/lenny.m.v/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/128/174/174855.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/lenin-moreno-752a362a3/" alt="Web Site" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/lenny_m_v" alt="twitter" title="twitter"><img width="32px" src="https://img.icons8.com/?size=48&id=cMRBi0rI3iwb&format=png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
