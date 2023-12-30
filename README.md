@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://leninm-portfolio.netlify.app/"> Lenin</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px/></picture></h1>
+  <h1 align="center">Hi, I'm <a href="https://leninm-portfolio.netlify.app/" target="_blank"> Lenin</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px/></picture></h1>
 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=60&color=3794FF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Backend+Developer+%F0%9F%96%B3;Android+Developer+%F0%9F%93%B1" alt="Typing SVG" /></a>
