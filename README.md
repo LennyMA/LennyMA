@@ -10,6 +10,7 @@
 - 🌱 I am currently learning frameworks like Angular. 
 - 🤔 I am looking for help with Web Development.
 - 📫 Write me at my email morenolenin1a@gmail.com
+
 <hr>
 <!-- collaborations section -->
 ### 🤙🏽 Collaborations:
