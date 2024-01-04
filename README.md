@@ -10,11 +10,11 @@
 - 🌱 I am currently learning frameworks like Angular. 
 - 🤔 I am looking for help with Web Development.
 - 📫 Write me at my email morenolenin1a@gmail.com
-- 
+  
 <!-- collaborations section -->
 ### 🤙🏽 Collaborations:
-<p align="left">
-- Electronic Billing💲<a href="https://github.com/YadiraAllauca/FacturaMovilGCS" target="blank">🔗</a> with <b>YadiraAllauca</b>, <b>ArmijosThais</b> y <b>Keybrish</b>
+- Electronic Billing💲
+<p align="left"> <a href="https://github.com/YadiraAllauca/FacturaMovilGCS" target="blank">🔗</a> with <b>YadiraAllauca</b>, <b>ArmijosThais</b> y <b>Keybrish</b>
 </p>
 <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/bb47bc57-f106-4eee-be9f-9a78a920a152.image.png?v=1701818279786" height="300">
 <!-- languajes section -->
