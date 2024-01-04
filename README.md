@@ -4,9 +4,10 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=60&color=3794FF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Backend+Developer+%F0%9F%96%B3;Android+Developer+%F0%9F%93%B1" alt="Typing SVG" /></a>
 </div>
+
 ### 🧒🏽 About me:
 - 🔭 I am currently working on my personal projects.
-- 🌱 I am currently learning frameworks like Angular. 
+- 🌱 I am currently learning frameworks like Angular.
 - 🤔 I am looking for help with Web Development.
 - 📫 Write me at my email morenolenin1a@gmail.com
 <!-- collaborations section -->
