@@ -12,10 +12,10 @@
 - 📫 Write me at my email morenolenin1a@gmail.com
 <!-- collaborations section -->
 ### 🤙🏽 Collaborations:
-- Electronic Billing💲<p align="left"> <a href="https://github.com/YadiraAllauca/FacturaMovilGCS" target="_blank">🔗</a> with <b>YadiraAllauca</b>, <b>ArmijosThais</b> and <b>Keybrish</b>
-</p>
-<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/bb47bc57-f106-4eee-be9f-9a78a920a152.image.png?v=1701818279786" height="300"/>
-- UTAForms 🪪 <p align="left"> <a href="" target="_blank"/> with <b>KelvinAlvear</b>, <b>DiegoCata</b> and <b>FaridRuano</b> </p> 
+- Electronic Billing💲
+  <p align="left"> <a href="https://github.com/YadiraAllauca/FacturaMovilGCS" target="_blank">🔗</a> with <b>YadiraAllauca</b>, <b>ArmijosThais</b> and <b>Keybrish</b></p> <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/bb47bc57-f106-4eee-be9f-9a78a920a152.image.png?v=1701818279786" height="300"/>
+- UTAForms 🪪
+  <p align="left"> <a href="https://github.com/FaridRuano/utaForms" target="_blank" 🔗/> with <b>KelvinAlvear</b>, <b>DiegoCata</b> and <b>FaridRuano</b> </p> 
   <img src="https://global.discourse-cdn.com/business6/uploads/glitch/original/3X/9/9/9965399d5ff3f6b1ba1cfe7ff8c5b575bf95f9c4.png" width="300"/>
 <!-- languajes section -->
 ### 👾 Languages and Tools:
