@@ -75,6 +75,4 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/lennymv/" alt="Web Site" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/lenny_m_v" alt="twitter" title="twitter"><img width="32px" src="https://img.icons8.com/?size=48&id=cMRBi0rI3iwb&format=png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
