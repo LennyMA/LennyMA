@@ -80,7 +80,7 @@
 
 ### ⚙️ GitHub Analytics:
 
-![GitHub Stats](https://raw.githubusercontent.com/LennyMA/LennyMA/output/github-stats.png?cache_seconds=1800)
+![GitHub Stats](https://raw.githubusercontent.com/LennyMA/LennyMA/output/github-stats.svg?cache_seconds=1800)
 ![Snake animation](https://raw.githubusercontent.com/LennyMA/LennyMA/output/snake.svg)
 
 
