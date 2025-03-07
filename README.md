@@ -81,6 +81,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/LennyMA/LennyMA/output/snake.svg" alt="Snake animation" />
 
 ###
