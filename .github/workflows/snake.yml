@@ -17,6 +17,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Crear directorio dist
+        run: mkdir -p dist
+
       - name: Generar snake.svg
         uses: Platane/snk/svg-only@v3
         with:
