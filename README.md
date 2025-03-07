@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://leninm-portfolio.netlify.app/" {:target="_blank"}> Lenin</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px/></picture></h1>  
+  <h1 align="center">Hi, I'm <a href="https://leninm-portfolio.netlify.app/" {:target="_blank"}> Lenin</a></h1>  
 </div>
 
 <!-- about me section -->
@@ -76,3 +76,11 @@
   <a href="https://www.linkedin.com/in/lennymv/" alt="Web Site" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LennyMA/LennyMA/output/snake.svg" alt="Snake animation" />
+
+###
