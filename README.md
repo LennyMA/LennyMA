@@ -57,9 +57,7 @@
 
 ### ⚙️ GitHub Analytics:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LennyMA&theme=radical&show_icons=true&include_all_commits=true&hide=stars,issues" />
-</a>
+![GitHub Stats](https://raw.githubusercontent.com/LennyMA/LennyMA/output/github-stats.svg?cache_seconds=1800)
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LennyMA&layout=compact&langs_count=8&card_width=320&theme=radical&cache_seconds=1800" />
 </a>
@@ -79,8 +77,6 @@
 </p>
 
 ### ⚙️ GitHub Analytics:
-
-![GitHub Stats](https://raw.githubusercontent.com/LennyMA/LennyMA/output/github-stats.svg?cache_seconds=1800)
 ![Snake animation](https://raw.githubusercontent.com/LennyMA/LennyMA/output/snake.svg)
 
 
