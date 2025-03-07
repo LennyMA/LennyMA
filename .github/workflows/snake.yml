@@ -1,13 +1,13 @@
-name: Generate snake animation
+name: Generate snake animation and update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Ejecuta cada 12 horas
+    - cron: "0 */12 * * *"  # Se ejecuta cada 12 horas
   workflow_dispatch:
 
   push:
     branches:
-      - main
+      - main  # Se activa cuando hay un push en "main"
 
 jobs:
   generate:
@@ -23,7 +23,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: Subir snake.svg a GitHub Pages
+      - name: Descargar estadísticas con Token
+        run: |
+          curl -o dist/github-stats.png "https://github-readme-stats.vercel.app/api?username=LennyMA&theme=radical&show_icons=true&include_all_commits=true&hide=stars,issues&token=${{ secrets.STATS_TOKEN }}"
+
+      - name: Subir archivos a GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
