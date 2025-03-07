@@ -28,7 +28,7 @@ jobs:
 
       - name: Descargar estadísticas con Token
         run: |
-          curl -o dist/github-stats.png "https://github-readme-stats.vercel.app/api?username=LennyMA&theme=radical&show_icons=true&include_all_commits=true&hide=stars,issues&token=${{ secrets.STATS_TOKEN }}"
+          gwet -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=LennyMA&theme=radical&show_icons=true&include_all_commits=true&hide=stars,issues&token=${{ secrets.STATS_TOKEN }}"
 
       - name: Subir archivos a GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
