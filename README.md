@@ -78,6 +78,9 @@
 </p>
 
 ###
-![Snake animation](https://github.com/LennyMA/LennyMA/blob/output/snake.svg)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LennyMA/LennyMA/output/snake.svg" alt="Snake animation" />
 
 ###
