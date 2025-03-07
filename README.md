@@ -26,31 +26,33 @@
 <hr>
 
 ### 👾 Languages and Tools:
-<p align="left"> <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="java" width="40" height="40"/></a>
-<a href="https://htmlreference.io/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="php" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png" alt="python" width="40" height="40"/> </a>
-<a href="https://la.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="linux" width="40" height="40"/> </a>
-<a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://es.react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=EgOU93v1DHjU&format=png" alt="androidStudio" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="androidStudio" width="40" height="40"/> </a> 
-<a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png" alt="netbeans" width="40" height="40"/> </a> 
-</p>
-<!-- database section -->
-<hr>
-
-### 🛢️ Database:
-<p p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/oracle_original_logo_icon_146401.png" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=8rKdRqZFLurS&format=png" alt="mongodb" width="40" height="40"/> </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+</div>
 
 <!-- GitHub Analytics section -->
 <hr>
