@@ -70,8 +70,6 @@
 
 ### 🔎 You can find me on:
 <p align="center">
-  <a href="https://www.facebook.com/lenin.ekess.9"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/128/733/733547.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/lenny.m.v/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/128/174/174855.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/lennymv/" alt="Web Site" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
